@@ -3,7 +3,7 @@ This is my first repository
 It is a software testing demo with pytest framework without reporting assets
 In this demo I insert from a user datasheet xlsx file values and implement them in tests impulsive
 
-$ TEST PLAN:\n
+$ TEST PLAN:
     1) "I {user[0]} with last name {user[1]} love to {user[3]} {quantity}!"
     2) "{user[0]} {user[1]} is {user[2]} years old!"
     
