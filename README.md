@@ -15,7 +15,7 @@ $ DESIRED OUTCOMES:<br/>
     * "I Nikos with last name Varelas love to hiking a lot!"<br/>
     * "I Nikos with last name Varelas love to hiking a little!"<br/>
   * Test 2<br/>
-    * "Nikos Varelas is 27.0 years old!"
+    * "Nikos Varelas is 27 years old!"
 
 $ UPDATES APPROACH:<br/>
   * MySQL data insertion instead of xlsx
