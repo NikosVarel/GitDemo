@@ -18,7 +18,7 @@ def ListOfUsers():
 def user(request):
     return request.param
 
-@pytest.fixture(params=["a lot", "a little"])
+@pytest.fixture(params=["lot", "little"])
 def quantity(request):
     return request.param
 

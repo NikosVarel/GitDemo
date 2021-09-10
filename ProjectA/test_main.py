@@ -5,7 +5,7 @@ import pytest
 class TestUserInfo:
 
     def test_hobbie(self,user,quantity):
-        print(f"I {user[0]} with last name {user[1]} love to {user[3]} {quantity}!")
+        print(f"I {user[0]} with last name {user[1]} love to {user[3]} a {quantity}!")
 
     def test_age(self,user):
         print(f"{user[0]} {user[1]} is {int(user[2])} years old!")
