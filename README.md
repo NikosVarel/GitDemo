@@ -11,11 +11,11 @@ $ ENTRIES EXAMPLE:<br/>
     2) quantity: "a lot", "a little"
     
 $ DESIRED OUTCOMES:<br/>
-    Test 1
-      "I Nikos with last name Varelas love to hiking a lot!"
-      "I Nikos with last name Varelas love to hiking a little!"
-    Test 2
+    Test 1<br/>
+      "I Nikos with last name Varelas love to hiking a lot!"<br/>
+      "I Nikos with last name Varelas love to hiking a little!"<br/>
+    Test 2<br/>
       "Nikos Varelas is 27.0 years old!"
 
-$ UPDATES APPROACH:
+$ UPDATES APPROACH:<br/>
     1) MySQL data insertion instead of xlsx
