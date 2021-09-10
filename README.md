@@ -7,15 +7,15 @@ $ TEST PLAN:<br/>
     2) "{user[0]} {user[1]} is {user[2]} years old!"
     
 $ ENTRIES EXAMPLE:<br/>
-    1) user=["Nikos","Varelas","27","hiking"]<br/>
+  * 1) user=["Nikos","Varelas","27","hiking"]<br/>
     2) quantity: "a lot", "a little"
     
 $ DESIRED OUTCOMES:<br/>
-    Test 1<br/>
-      "I Nikos with last name Varelas love to hiking a lot!"<br/>
+  * Test 1<br/>
+    * "I Nikos with last name Varelas love to hiking a lot!"<br/>
       "I Nikos with last name Varelas love to hiking a little!"<br/>
-    Test 2<br/>
-      "Nikos Varelas is 27.0 years old!"
+  * Test 2<br/>
+    * "Nikos Varelas is 27.0 years old!"
 
 $ UPDATES APPROACH:<br/>
-    1) MySQL data insertion instead of xlsx
+  * 1) MySQL data insertion instead of xlsx
