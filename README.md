@@ -12,8 +12,8 @@ $ ENTRIES EXAMPLE:<br/>
     
 $ DESIRED OUTCOMES:<br/>
   * Test 1<br/>
-    * "I **Nikos** with last name **Varelas** love to **hiking** **a lot**!"<br/>
-    * "I **Nikos** with last name **Varelas** love to **hiking** **a little**!"<br/>
+    * "I **Nikos** with last name **Varelas** love to **hiking** a **lot**!"<br/>
+    * "I **Nikos** with last name **Varelas** love to **hiking** a **little**!"<br/>
   * Test 2<br/>
     * "**Nikos** **Varelas** is **27** years old!"
 
