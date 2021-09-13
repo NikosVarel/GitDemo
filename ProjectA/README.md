@@ -1,5 +1,5 @@
 # GitDemo
-This is my first repository. It is a software testing demo with pytest framework without reporting assets.<br/>
+This is my first repository. It is a software testing demo with pytest framework without reporting assets, and warning levels logging info.<br/>
 In this demo I insert from a user datasheet xlsx file values and implement them in tests impulsive.
 
 $ TEST PLAN:<br/>
