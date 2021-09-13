@@ -16,3 +16,7 @@ $ DESIRED OUTCOMES:<br/>
     * "I **Nikos** with last name **Varelas** love to **hiking** a **little**!"<br/>
   * Test 2<br/>
     * "**Nikos** **Varelas** is **27** years old!"
+
+$ EXECUTING COMMAND IN TERMINAL:
+  * pytest --html=Sheets\report.html -v
+  * Now simply check the **report.html** file in **Sheets** folder
