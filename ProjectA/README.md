@@ -16,6 +16,3 @@ $ DESIRED OUTCOMES:<br/>
     * "I **Nikos** with last name **Varelas** love to **hiking** a **little**!"<br/>
   * Test 2<br/>
     * "**Nikos** **Varelas** is **27** years old!"
-
-$ UPDATES APPROACH:<br/>
-  * Select TestCase through command line option arguments
