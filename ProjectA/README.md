@@ -6,16 +6,16 @@ $ TEST PLAN:<br/>
   * "I {user[0]} with last name {user[1]} love to {user[3]} {quantity}!"<br/>
   * "{user[0]} {user[1]} is {user[2]} years old!"
     
-$ ENTRIES EXAMPLE:<br/>
+$ ENTRIES EXAMPLE (TestCase):<br/>
   * user=["Nikos","Varelas","27","hiking"]<br/>
   * quantity: "a lot", "a little"
     
 $ DESIRED OUTCOMES:<br/>
   * Test 1<br/>
-    * "I **Nikos** with last name **Varelas** love to **hiking** **a lot**!"<br/>
-    * "I **Nikos** with last name **Varelas** love to **hiking** **a little**!"<br/>
+    * "I **Nikos** with last name **Varelas** love to **hiking** a **lot**!"<br/>
+    * "I **Nikos** with last name **Varelas** love to **hiking** a **little**!"<br/>
   * Test 2<br/>
     * "**Nikos** **Varelas** is **27** years old!"
 
 $ UPDATES APPROACH:<br/>
-  * MySQL data insertion instead of xlsx
+  * Select TestCase through command line option arguments
